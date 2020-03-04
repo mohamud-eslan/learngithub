@@ -1,4 +1,6 @@
-<html>
-<head>
-fdghjkl;;
-ziyaad's line here
+git commands
+git status
+git add .
+git commit -m "fariin halkaan"
+ git push -u origin master 
+ git clone project url
